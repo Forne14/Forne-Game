@@ -28,7 +28,7 @@ public class Game extends JPanel{
 	try {
 		img = ImageIO.read(new URL("http://i.imgur.com/cXaR0vS.png"));
 	} catch (IOException e) {
-		System.out.println("WRONG BACKGROUND");		//prints "WRONG BACKGROUND" if there is an issue obtaining the background
+		System.out.println("WRONG BACKGROUND");		//ccprints "WRONG BACKGROUND" if there is an issue obtaining the background
 	}}
 	
 	
